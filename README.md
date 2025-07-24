@@ -15,7 +15,7 @@ Tudo baseado na **Metodologia SENAI de Educação Profissional**.
 ### 1. Clone o repositório:
 ```bash
 git clone https://github.com/seu-usuario/agente-senai-planos-aula.git
-cd agente-senai-planos-aulas
+cd agente-senai-planos-aula
 ```
 
 ### 2. Instale as dependências:
