@@ -1,0 +1,12 @@
+# Arquivos e pastas ignorados
+__pycache__/
+*.pyc
+.env
+*.env
+openai_key.txt
+.vscode/
+.idea/
+.DS_Store
+outputs/
+*.docx
+*.xml
